@@ -11,7 +11,7 @@ Este repositório serve como meu guia pessoal de referência e repositório de a
 
 ---
 
-## 📚 Fontes de Estudo e Referências
+## 📚 Fontes de Estudo, Referências e Ferramentas
 
 ### 📖 Livros
 #### [The Data Warehouse Toolkit (3rd Edition)](https://chandan-choudhury.github.io/Data-Engineering/Books/The%20Data%20Warehouse%20Toolkit.pdf)
@@ -26,12 +26,18 @@ Escrito por Ralph Kimball e Margy Ross, este livro é a base fundamental para qu
 
 ### 🎓 Cursos
 #### [UDEMY] [Modelagem de Dados - MER e Modelo Dimensional (DW)](https://www.udemy.com/course/modelagem_de_dados/)
-* **Tópicos explorados:**
-    * Modelo de Entidade e Relacionamento.
-    * Cardinalidade.
-    * Modelos Conceitual, Lógico e Físico.
-    * Normalização (1FN, 2FN, 3FN).
-    * Modelo Dimensional.
-    * Star Schema e Snowflake.
-    * Diferenças do MER e Modelo Dimensional.
+**Tópicos explorados:**
+* Modelo de Entidade e Relacionamento.
+* Cardinalidade.
+* Modelos Conceitual, Lógico e Físico.
+* Normalização (1FN, 2FN, 3FN).
+* Modelo Dimensional.
+* Star Schema e Snowflake.
+* Diferenças do MER e Modelo Dimensional.
+
+### 🖥️ Ferramentas
+#### [draw.io](https://app.diagrams.net/)
+* Ferramenta versátil para criação de diagramas conceituais e lógicos (MER). Ideal para visualizar fluxos e a estrutura inicial dos dados.
+#### [dbdiagram.io](https://dbdiagram.io/)
+* Ferramenta focada em modelagem física. Permite gerar diagramas de entidade-relacionamento rapidamente através de código, facilitando a visualização de chaves e relacionamentos.
 
